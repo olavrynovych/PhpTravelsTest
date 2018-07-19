@@ -1,0 +1,16 @@
+D:\MyProjects\IntelliasTest\IntelliasTest\bin\Debug\PhpTravelsTest.dll
+D:\MyProjects\IntelliasTest\IntelliasTest\bin\Debug\PhpTravelsTest.pdb
+D:\MyProjects\IntelliasTest\IntelliasTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\MyProjects\IntelliasTest\IntelliasTest\bin\Debug\nunit.framework.dll
+D:\MyProjects\IntelliasTest\IntelliasTest\bin\Debug\SeleniumExtras.PageObjects.dll
+D:\MyProjects\IntelliasTest\IntelliasTest\bin\Debug\SeleniumExtras.WaitHelpers.dll
+D:\MyProjects\IntelliasTest\IntelliasTest\bin\Debug\WebDriver.dll
+D:\MyProjects\IntelliasTest\IntelliasTest\bin\Debug\WebDriver.Support.dll
+D:\MyProjects\IntelliasTest\IntelliasTest\bin\Debug\nunit.framework.pdb
+D:\MyProjects\IntelliasTest\IntelliasTest\bin\Debug\nunit.framework.xml
+D:\MyProjects\IntelliasTest\IntelliasTest\bin\Debug\WebDriver.xml
+D:\MyProjects\IntelliasTest\IntelliasTest\bin\Debug\WebDriver.Support.xml
+D:\MyProjects\IntelliasTest\IntelliasTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+D:\MyProjects\IntelliasTest\IntelliasTest\obj\Debug\PhpTravelTests.csprojResolveAssemblyReference.cache
+D:\MyProjects\IntelliasTest\IntelliasTest\obj\Debug\PhpTravelsTest.dll
+D:\MyProjects\IntelliasTest\IntelliasTest\obj\Debug\PhpTravelsTest.pdb
